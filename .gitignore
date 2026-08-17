@@ -1,0 +1,18 @@
+# Virtualenvs / uv (any project folder)
+**/.venv/
+
+# Python caches
+**/__pycache__/
+**/*.py[cod]
+**/*.egg-info/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.pytest_cache/
+
+# Secrets
+.env
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
