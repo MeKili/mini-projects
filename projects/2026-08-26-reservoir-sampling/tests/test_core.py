@@ -112,9 +112,7 @@ def test_sample_function_invalid_k() -> None:
 
 def test_distribution_uniformity() -> None:
     """Verify that samples cover multiple distinct items."""
-    samples = [
-        sample(range(1000), k=50, seed=i) for i in range(10)
-    ]
+    samples = [sample(range(1000), k=50, seed=i) for i in range(10)]
     all_items = set()
     for sample_list in samples:
         all_items.update(sample_list)
