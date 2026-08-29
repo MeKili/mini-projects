@@ -12,6 +12,8 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-08-29 | [kmeans](projects/2026-08-29-kmeans) | K-means clustering from scratch with k-means++ initialization |
+| 2026-08-26 | [reservoir-sampling](projects/2026-08-26-reservoir-sampling) | Select k random items from a stream in a single pass (Algorithm R) |
 | 2026-08-24 | [edit-distance](projects/2026-08-24-edit-distance) | Levenshtein distance and fuzzy string matching |
 | 2026-08-22 | [union-find](projects/2026-08-22-union-find) | Fast, typed union-find with path compression and union by rank |
 | 2026-08-19 | [lru-cache](projects/2026-08-19-lru-cache) | Fast, typed LRU cache with O(1) get and put operations |
