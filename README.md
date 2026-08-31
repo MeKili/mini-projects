@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-08-31 | [tfidf](projects/2026-08-31-tfidf) | TF-IDF (term frequency–inverse document frequency) vectorizer |
 | 2026-08-29 | [kmeans](projects/2026-08-29-kmeans) | K-means clustering from scratch with k-means++ initialization |
 | 2026-08-26 | [reservoir-sampling](projects/2026-08-26-reservoir-sampling) | Select k random items from a stream in a single pass (Algorithm R) |
 | 2026-08-24 | [edit-distance](projects/2026-08-24-edit-distance) | Levenshtein distance and fuzzy string matching |
