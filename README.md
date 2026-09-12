@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-09-12 | [trie](projects/2026-09-12-trie) | Prefix tree for efficient string storage, search, and autocomplete |
 | 2026-09-09 | [json-schema-validator](projects/2026-09-09-json-schema-validator) | Strict JSON schema validator with type checking and detailed error reporting |
 | 2026-09-07 | [min-heap](projects/2026-09-07-min-heap) | Binary min-heap with O(log n) push and pop operations |
 | 2026-09-05 | [running-stats](projects/2026-09-05-running-stats) | Streaming mean and variance using Welford's algorithm |
