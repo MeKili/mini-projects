@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-09-16 | [logistic-regression](projects/2026-09-16-logistic-regression) | Binary logistic regression with gradient descent optimization |
 | 2026-09-14 | [linear-regression](projects/2026-09-14-linear-regression) | Simple linear regression with fitted line prediction and R² evaluation |
 | 2026-09-12 | [trie](projects/2026-09-12-trie) | Prefix tree for efficient string storage, search, and autocomplete |
 | 2026-09-09 | [json-schema-validator](projects/2026-09-09-json-schema-validator) | Strict JSON schema validator with type checking and detailed error reporting |
