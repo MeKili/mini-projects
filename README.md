@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-09-30 | [classification-metrics](projects/2026-09-30-classification-metrics) | Precision, recall, F1, ROC-AUC, and confusion matrix for binary classification |
 | 2026-09-28 | [expr-eval](projects/2026-09-28-expr-eval) | Recursive descent parser and evaluator for arithmetic expressions |
 | 2026-09-26 | [knn-classifier](projects/2026-09-26-knn-classifier) | K-nearest neighbors classifier with Euclidean distance and majority voting |
 | 2026-09-23 | [huffman-coding](projects/2026-09-23-huffman-coding) | Huffman coding for lossless data compression with variable-length prefix codes |
