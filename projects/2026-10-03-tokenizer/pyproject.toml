@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tokenizer"
+version = "0.1.0"
+requires-python = ">=3.12"
+description = "Flexible text tokenizer with whitespace, punctuation, and regex strategies"
+
+[dependency-groups]
+dev = ["ruff>=0.6", "mypy>=1.11", "pytest>=8"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/tokenizer"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.mypy]
+strict = true
+mypy_path = "src"
+explicit_package_bases = true
+files = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
