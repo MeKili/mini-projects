@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-10-07 | [soundex](projects/2026-10-07-soundex) | Soundex phonetic algorithm for fuzzy string matching |
 | 2026-10-05 | [ngram-model](projects/2026-10-05-ngram-model) | N-gram language model for text analysis and prediction |
 | 2026-10-03 | [tokenizer](projects/2026-10-03-tokenizer) | Flexible text tokenizer with whitespace, punctuation, regex, and camelCase strategies |
 | 2026-09-30 | [classification-metrics](projects/2026-09-30-classification-metrics) | Precision, recall, F1, ROC-AUC, and confusion matrix for binary classification |
