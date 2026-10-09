@@ -1,6 +1,5 @@
 """Tests for Bloom filter implementation."""
 
-
 import pytest
 
 from bloom_filter.core import BloomFilter
