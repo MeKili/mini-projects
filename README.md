@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-10-12 | [lcs](projects/2026-10-12-lcs) | Longest common subsequence using dynamic programming |
 | 2026-10-10 | [quantile-estimator](projects/2026-10-10-quantile-estimator) | Streaming quantile estimation using reservoir sampling |
 | 2026-10-07 | [soundex](projects/2026-10-07-soundex) | Soundex phonetic algorithm for fuzzy string matching |
 | 2026-10-05 | [ngram-model](projects/2026-10-05-ngram-model) | N-gram language model for text analysis and prediction |
