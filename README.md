@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-10-17 | [fenwick-tree](projects/2026-10-17-fenwick-tree) | Fenwick tree for efficient range sum queries and point updates |
 | 2026-10-14 | [consistent-hashing](projects/2026-10-14-consistent-hashing) | Consistent hashing for distributed caching and load balancing |
 | 2026-10-12 | [lcs](projects/2026-10-12-lcs) | Longest common subsequence using dynamic programming |
 | 2026-10-10 | [quantile-estimator](projects/2026-10-10-quantile-estimator) | Streaming quantile estimation using reservoir sampling |
