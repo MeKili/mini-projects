@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-10-21 | [topological-sort](projects/2026-10-21-topological-sort) | Topological sorting of directed acyclic graphs using Kahn's algorithm |
 | 2026-10-19 | [dijkstra](projects/2026-10-19-dijkstra) | Dijkstra's algorithm for shortest paths in weighted graphs |
 | 2026-10-17 | [fenwick-tree](projects/2026-10-17-fenwick-tree) | Fenwick tree for efficient range sum queries and point updates |
 | 2026-10-14 | [consistent-hashing](projects/2026-10-14-consistent-hashing) | Consistent hashing for distributed caching and load balancing |
