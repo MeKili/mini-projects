@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-10-28 | [kmp](projects/2026-10-28-kmp) | Knuth-Morris-Pratt string pattern matching with failure function |
 | 2026-10-26 | [markov-chain](projects/2026-10-26-markov-chain) | Markov chain text generator with variable-order models |
 | 2026-10-24 | [skip-list](projects/2026-10-24-skip-list) | Probabilistic data structure with O(log n) search, insert, and delete |
 | 2026-10-21 | [topological-sort](projects/2026-10-21-topological-sort) | Topological sorting of directed acyclic graphs using Kahn's algorithm |
