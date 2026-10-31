@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-10-31 | [binary-search-tree](projects/2026-10-31-binary-search-tree) | Self-balancing binary search tree with insert, search, delete, and traversal |
 | 2026-10-28 | [kmp](projects/2026-10-28-kmp) | Knuth-Morris-Pratt string pattern matching with failure function |
 | 2026-10-26 | [markov-chain](projects/2026-10-26-markov-chain) | Markov chain text generator with variable-order models |
 | 2026-10-24 | [skip-list](projects/2026-10-24-skip-list) | Probabilistic data structure with O(log n) search, insert, and delete |
