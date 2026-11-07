@@ -1,6 +1,5 @@
 """Tests for longest increasing subsequence solvers."""
 
-
 from lis import lis_length, lis_subsequence, lis_with_key
 
 
