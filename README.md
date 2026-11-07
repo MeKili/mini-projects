@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-11-07 | [lis](projects/2026-11-07-lis) | Longest increasing subsequence solver with O(n log n) dynamic programming |
 | 2026-11-04 | [segment-tree](projects/2026-11-04-segment-tree) | Segment tree for efficient range minimum queries and point updates |
 | 2026-11-02 | [rabin-karp](projects/2026-11-02-rabin-karp) | Rolling hash substring matching with Rabin-Karp algorithm |
 | 2026-10-31 | [binary-search-tree](projects/2026-10-31-binary-search-tree) | Self-balancing binary search tree with insert, search, delete, and traversal |
