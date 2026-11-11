@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-11-11 | [tarjan-scc](projects/2026-11-11-tarjan-scc) | Tarjan's algorithm for finding strongly connected components in directed graphs |
 | 2026-11-09 | [quicksort](projects/2026-11-09-quicksort) | Quicksort with Lomuto partitioning and median-of-three pivot selection |
 | 2026-11-07 | [lis](projects/2026-11-07-lis) | Longest increasing subsequence solver with O(n log n) dynamic programming |
 | 2026-11-04 | [segment-tree](projects/2026-11-04-segment-tree) | Segment tree for efficient range minimum queries and point updates |
