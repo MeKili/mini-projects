@@ -42,7 +42,7 @@ def is_prime(n: int) -> bool:
         return True
     if n % 2 == 0:
         return False
-    return all(n % i != 0 for i in range(3, int(n ** 0.5) + 1, 2))
+    return all(n % i != 0 for i in range(3, int(n**0.5) + 1, 2))
 
 
 def prime_factors(n: int) -> list[int]:
