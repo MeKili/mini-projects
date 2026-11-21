@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-11-21 | [convex-hull](projects/2026-11-21-convex-hull) | Graham scan algorithm for convex hull computation |
 | 2026-11-18 | [prime-sieve](projects/2026-11-18-prime-sieve) | Sieve of Eratosthenes for prime enumeration, primality testing, and factorization |
 | 2026-11-16 | [knapsack](projects/2026-11-16-knapsack) | 0/1 knapsack solver with dynamic programming and item backtracking |
 | 2026-11-14 | [fraction-arithmetic](projects/2026-11-14-fraction-arithmetic) | Immutable rational numbers with automatic simplification and arithmetic operations |
