@@ -12,6 +12,7 @@ pytest). CI runs each project's checks on every push, so everything here stays g
 
 | Date | Project | Description |
 |---|---|---|
+| 2026-11-25 | [naive-bayes](projects/2026-11-25-naive-bayes) | Gaussian Naive Bayes classifier for binary and multiclass classification |
 | 2026-11-23 | [graph-traversal](projects/2026-11-23-graph-traversal) | BFS and DFS graph traversal, path finding, and connected components |
 | 2026-11-21 | [convex-hull](projects/2026-11-21-convex-hull) | Graham scan algorithm for convex hull computation |
 | 2026-11-18 | [prime-sieve](projects/2026-11-18-prime-sieve) | Sieve of Eratosthenes for prime enumeration, primality testing, and factorization |
